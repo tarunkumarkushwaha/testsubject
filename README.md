@@ -1,4 +1,5 @@
 Mini programing (react and javascript) questions and solutions for interviews new questions will be added regularly, you can create pull request to add any valuable question.
+live link - (https://reactinterviewquestions.vercel.app/)
 
 Q1. Write a react component in jsx that will display 60 blacksqaures across 6 rows .Every sec,make one black sqaure turn white and then to black.
 sol: see component <Blackbox1/>
