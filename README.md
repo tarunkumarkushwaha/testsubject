@@ -10,3 +10,4 @@ Q3. Write a react component in jsx that will display two button and a containing
 sol: see component <CounterWithColor/>
 
 Q4. Write a react component containing a list of six words followed bt an input, input should take a string which will be shown in the list. onclick the last letter will be the first in first list and so on example: input=> Hello There eHello Ther reHello The ereHello Th hereHello T ThereHEllo
+sol: see component

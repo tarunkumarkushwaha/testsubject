@@ -16,6 +16,10 @@ function App() {
         <Blackbox2 />
         <CounterWithColor />
       </div>
+      <footer className='text-center p-3 flex flex-col'>
+        <p>more questions comming soon</p>
+        <p>if you have one create pr</p>
+      </footer>
     </>
   )
 }
